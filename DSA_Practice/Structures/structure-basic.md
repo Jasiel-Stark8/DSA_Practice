@@ -8,7 +8,7 @@ struct(keyword) tag {
 
 
 
-# Title: Basic Structure Definition in C
+# Basic Structure Definition in C
 
 In the video "C_109 Structures in C - part 1| Introduction to Structures", we learned about the basic definition of a structure in C. A structure is a user-defined data type in C that allows us to combine data items of different kinds. Structures are used when we need to group together different types of data under one name.
 
