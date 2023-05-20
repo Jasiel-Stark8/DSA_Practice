@@ -38,7 +38,7 @@ void main() {
 
 In memory, `s` contains the base address for the roll number of the 10 students. Each index of `s` points to the base address of the corresponding student. For example, `s[0]` points to the base address of the first student, `s[1]` points to the base address of the second student, and so on.
 # MEMORY VISUALIZATION
-Sure, here's a visualization of the memory allocation for the array of structures `s`:
+Here's a visualization of the memory allocation for the array of structures `s`:
 
 ```c
 s -> &s[0]; 1024 -> 1044 -> 1048
