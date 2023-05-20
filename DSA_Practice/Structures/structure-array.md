@@ -55,6 +55,7 @@ s[9] -> &s10; 1240 (base address of s10)
 ```
 
 In this visualization, `s` is the array of structures, and each `s[i]` represents a structure in the array. The arrow `->` indicates that it points to the base address of the corresponding structure. The numbers (1024, 1048, etc.) are hypothetical memory addresses, assuming that the base address of `s[0]` is 1024 and each structure occupies 24 bytes (20 bytes for the `name` array, 4 bytes for the `rollno` integer, and 4 bytes for the `marks` float). Please note that the actual memory addresses and the size of the structure can vary depending on the system and compiler.
+
 --------------------------------------------------------
 
 
