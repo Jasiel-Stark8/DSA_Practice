@@ -71,7 +71,7 @@ s[0].marks // gives marks of student 1
 We can use a for loop to take in information for each student dynamically:
 
 ```c
-for (int i = 0; i < 3; i++) {
+for (int i = 0; i < 10; i++) {
     scanf("%d %s %f", &s[i].rollno, s[i].name, &s[i].marks);
 }
 ```
@@ -81,16 +81,14 @@ In the above loop, `i` is used as a counter that iterates through each student's
 Similarly, we can use a for loop to print the information of each student:
 
 ```c
-for (int i = 0; i < 3; i++) {
+for (int i = 0; i < 10; i++) {
     printf("%d, %s, %f", s[i].rollno, s[i].name, s[i].marks);
 }
 ```
 
 In this loop, `i` is used as a counter that iterates through each student's details. At runtime, `i` is replaced with the index of the student starting from 0 to 9 and prints the information of each student.
 
-Here's a complete program that takes in and prints the information for three students:
-
-I apologize for the confusion earlier. Here is the corrected code:
+Here's a complete program that takes in and prints the information for the 10 students:
 
 ```c
 #include <stdio.h>
