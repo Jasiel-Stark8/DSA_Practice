@@ -1,6 +1,6 @@
 ## Day 1: Saturday, May 20, 2023
 
-`12:00 - 14:00:` Watch Jenny's C tutorials (108 - 111) on YouTube.
+`12:00 - 14:00:` Watch Jenny's C tutorials (109 - 118) on YouTube.
 `14:00 - 14:30:` Break. Rest, hydrate, and have a snack.
 `14:30 - 16:30:` Read the chapters on Pointers and Structures from "The C Bible".
 `16:30 - 17:30:` Lunch break.

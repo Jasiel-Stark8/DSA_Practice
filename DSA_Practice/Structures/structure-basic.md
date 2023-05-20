@@ -5,9 +5,15 @@ In the video "C_109 Structures in C - part 1| Introduction to Structures", we le
 ### Here's an example of a basic structure definition:
 ```c
 struct student {
+
     int rollno;
-    char name[20]
+    char name[20];
     float marks;
+};
+
+int main(void) {
+    // struct variable declaration goes here
+    return 0;
 }
 ```
 

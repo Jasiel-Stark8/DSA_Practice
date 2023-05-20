@@ -8,6 +8,6 @@ struct student {
 };
 
 int main(void) {
-    // struct member declaration goes here
+    // struct variable declaration goes here
     return 0;
 }
