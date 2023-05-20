@@ -158,28 +158,27 @@ int main() {
     printf("Roll No: %d\n", s3.rollno);
     printf("Name: %s\n", s3.name);
     printf("Marks: %.2f\n", s3.marks);
-
-    // Assigning values to array of structure variables
-    students[0].rollno = 1;
-    strcpy(students[0].name, "John");
-    students[0].marks = 85.5;
-
-    students[1].rollno = 2;
-    strcpy(students[1].name, "Sarah");
-    students[1].marks = 90.0;
-
-    students[2].rollno = 3;
-    strcpy(students[2].name, "David");
-    students[2].marks = 78.5;
-
-    // Accessing and displaying values of array of structure variables
-    for (int i = 0; i < 3; i++) {
-        printf("Details of students[%d]:\n", i);
-        printf("Roll No: %d\n", students[i].rollno);
-        printf("Name: %s\n", students[i].name);
-        printf("Marks: %.2f\n", students[i].marks);
-    }
-
-    return 0;
 }
 ```
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+**Dynamic Initialization and Accessing of Structure Members in C**
+
+8. **Dynamic Initialization of Structures**: We can also dynamically take in values from the user and store them in the structure. This is particularly useful when we don't know the values at compile time and need to get them at runtime. Here's how you can do it:
+
+    ```c
+    struct student s5;
+    printf("Enter roll number, name, and marks for the student: ");
+    scanf("%d %s %f", &s5.rollno, s5.name, &s5.marks);
+    ```
+    In this example, I'm asking the user to enter the roll number, name, and marks for a student. These values are then stored in the `s5` structure.
+
+9. **Printing Dynamically Initialized Structures**: After dynamically initializing a structure, we can print its values in the same way as before. Here's how you can do it:
+
+    ```c
+    printf("Information for s5: %d %s %f\n", s5.rollno, s5.name, s5.marks);
+    ```
+    This line of code will print the roll number, name, and marks of the student `s5`.
+
+This concludes our discussion on initializing and accessing structure members in C, both at compile time and runtime. Structures are a powerful feature in C that allow us to group related data together, making our programs easier to understand and manage.
