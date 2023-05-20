@@ -1,4 +1,4 @@
-## Here are simplified detailed notes with simple-to-understand codes and examples for each subchapter of Chapter 5, "Pointers and Arrays," from "The C Programming Language."
+### Here are simplified detailed notes with simple-to-understand codes and examples for each subchapter of Chapter 5, "Pointers and Arrays," from "The C Programming Language."
 
 1. 5.1 Pointers and Addresses:
 This section covers the basics of pointers and addresses. Pointers are variables that hold memory addresses. Here's an example:
