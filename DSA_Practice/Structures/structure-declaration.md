@@ -77,58 +77,6 @@ int main() {
 
     // Declaring an array of structure variables
     struct student students[60];
-
-    // Assigning values to individual structure variables
-    s1.rollno = 1;
-    strcpy(s1.name, "John");
-    s1.marks = 85.5;
-
-    s2.rollno = 2;
-    strcpy(s2.name, "Sarah");
-    s2.marks = 90.0;
-
-    s3.rollno = 3;
-    strcpy(s3.name, "David");
-    s3.marks = 78.5;
-
-    // Accessing and displaying values of individual structure variables
-    printf("Details of s1:\n");
-    printf("Roll No: %d\n", s1.rollno);
-    printf("Name: %s\n", s1.name);
-    printf("Marks: %.2f\n", s1.marks);
-
-    printf("Details of s2:\n");
-    printf("Roll No: %d\n", s2.rollno);
-    printf("Name: %s\n", s2.name);
-    printf("Marks: %.2f\n", s2.marks);
-
-    printf("Details of s3:\n");
-    printf("Roll No: %d\n", s3.rollno);
-    printf("Name: %s\n", s3.name);
-    printf("Marks: %.2f\n", s3.marks);
-
-    // Assigning values to array of structure variables
-    students[0].rollno = 1;
-    strcpy(students[0].name, "John");
-    students[0].marks = 85.5;
-
-    students[1].rollno = 2;
-    strcpy(students[1].name, "Sarah");
-    students[1].marks = 90.0;
-
-    students[2].rollno = 3;
-    strcpy(students[2].name, "David");
-    students[2].marks = 78.5;
-
-    // Accessing and displaying values of array of structure variables
-    for (int i = 0; i < 3; i++) {
-        printf("Details of students[%d]:\n", i);
-        printf("Roll No: %d\n", students[i].rollno);
-        printf("Name: %s\n", students[i].name);
-        printf("Marks: %.2f\n", students[i].marks);
-    }
-
-    return 0;
 }
 ```
 
