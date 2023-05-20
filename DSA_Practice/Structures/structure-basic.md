@@ -67,6 +67,7 @@ struct student {
 ```
 
 In this example, `student` is the name of the structure, and `rollno`, `name`, and `marks` are the members of the structure.
+NOTE: No memory is allocated when we do this, becuase it is not declared (See next topic on how to do this)
 
 ### 4. Important points about Structures:
 - Two members of a structure cannot have the same name.
