@@ -60,7 +60,7 @@ We can declare multiple variables of a structure at the same time, like this: st
 
 We can also declare an array of structure variables. This is useful when we want to store information for multiple students. For example, if we want to store information for 60 students, we can declare an array of 60 `student` objects like this: `struct student s[60];`.
 
-### Here are the codes for declaring multiple structures and an array of structure variables:
+### Here are the codes for declaring multiple structures and an array of structure variables/objects:
 
 ```c
 #include <stdio.h>
