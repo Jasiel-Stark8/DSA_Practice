@@ -1,6 +1,6 @@
 ## Day 1: Saturday, May 20, 2023
 
-`12:00 - 14:00:` Watch Jenny's C tutorials (108 - 111) on YouTube.
+`12:00 - 14:00:` Watch Jenny's C tutorials (109 - 118) on YouTube.
 
 `14:00 - 14:30:` Break. Rest, hydrate, and have a snack.
 
@@ -44,9 +44,9 @@
 
 `15:30 - 17:30:` Practice implementing Stacks and Queues in preparation for your project.
 
+
 `17:30 - 18:00:` Break. Rest, hydrate, and have a snack.
 
 `18:00 - 20:00:` Review and revise the day's learning. Make notes if necessary.
-
 
 Remember, this is just a suggested timetable. Feel free to adjust it according to your comfort and convenience. The most important thing is to maintain a steady pace and not to rush through the topics. Understanding the concepts thoroughly will help you in the long run. Good luck with your studies!
