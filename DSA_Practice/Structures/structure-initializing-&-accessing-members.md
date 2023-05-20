@@ -62,9 +62,7 @@ In this case, `s3.rollno` is `3`, `s3.name` is `NULL`, and `s3.marks` is `0`.
 struct student s4 = {4, "Global", 95.0};
 
 int main() {
-    printf("Information for s4: %d %s %f\n", s4.rollno,
-
-s4.name, s4.marks);
+    printf("Information for s4: %d %s %f\n", s4.rollno, s4.name, s4.marks);
     return 0;
 }
 ```
