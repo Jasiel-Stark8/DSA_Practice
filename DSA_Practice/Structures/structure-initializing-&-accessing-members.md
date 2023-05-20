@@ -1,10 +1,14 @@
 # Initializing & Accessing of Structure Members
 
 Index: s = student
+
 Hence- s1 = student 1
+
        s2 = student 2...
+       
 student of the structure we named `student` >>> `struct student`
 
+------------------------------------------------------------------------------------------
 
 1. **Initializing a Structure**: In C programming, we can initialize a structure at the time of its declaration. This is what we call compile-time initialization. Here's an example of how to do it:
 
@@ -110,6 +114,7 @@ void main() {
     printf("\n %d %s %f", s3.rollno, s3.name, s3.marks);
 }
 ```
+
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 # Other Ways To Initialize and Access variables at compile-time
@@ -160,6 +165,7 @@ int main() {
     printf("Marks: %.2f\n", s3.marks);
 }
 ```
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
