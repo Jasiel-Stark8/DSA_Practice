@@ -84,8 +84,35 @@ In this example, `s` is an array of `struct student` with two elements. Each ele
 
 Remember, these are just the basics of working with structures in C. There's a lot more you can do with them, and we'll continue exploring these possibilities in the next videos.
 
+---------------------------------------------------------------------------------------------------------------------------------------------
+### Simple accessing
+```c
+struct student {
+    int rollno;
+    char name[20];
+    float marks;
+} s3 = {2};
 
-# Other Ways To Iitialize and Access variables at compile-time
+/**
+ * Main Program
+ */
+void main() {
+    struct student s1 = {1, "jenny", 90};
+    struct student s2;
+    s2 = s1; // Copy data/values from s1 to s2 (THis is only possibble because they are in the same structure)
+
+    // Now lets go to the printing press :)
+    printf("info for Student 1(s1)");|
+    printf("\n %d %s %f", s1.rollno, s1.name, s1.marks);
+    printf("\n info for Student 2(s2)");
+    printf("\n %d %s %f", s2.rollno, s2.name, s2.marks);
+    printf("\n info for Student 3(s3)");
+    printf("\n %d %s %f", s3.rollno, s3.name, s3.marks);
+}
+```
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+# Other Ways To Initialize and Access variables at compile-time
 
 ```c
 #include <stdio.h>
