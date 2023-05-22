@@ -14,7 +14,7 @@ struct student {
 };
 
 int main(void) {
-    // struct variable declaration goes here
+    // struct member declaration goes here
     return 0;
 }
 
