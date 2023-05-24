@@ -1,0 +1,128 @@
+Imagine the following scenario. It is Jan 23 2023, and you're excited that you have started one of the worlds (if not the best) course in Software Engineering offered by ALX Africa. You start learning the follwing:
+
+First Trimester:
+Intro to:
+       Emacs
+       Vim
+       Git/Github
+C
+       Basics
+       Functions
+       Pointers
+       Data Structures
+            Singly Linked Lists
+            Arrays
+Bit Manipulation
+Variadic Functions
+Memory Management
+File Redirection
+printf
+Shell
+Compilation
+Heap/Stack
+Linux
+        Basics
+        Permissions
+        Redirections
+        Syscalls
+Static Libraries
+Social Media
+Public Speaking/Stand ups
+
+You are so focused than youever were in your life and you had an easy start
+You made groups to learn and get people together because you realized the best way was to do things together. You made a telegram group for this and had nightly sessions to peer code and the optimism is there
+There are live sessions (there are many sessions by the other mentors that you holistically attended that helped you)
+You began to feel the heat a bit but you sailed through the Git and Bash projects.
+You read through resources and gathet many for your team on telegram as well, of the 150+ only 25 are responsive daily but its good to keep that small number.
+
+During this time the CEO of the course has a live coding session showcasingf how ChatGPT is used and you to use the APIs. You  miss this session but a few days to a week later while at a family gatheting, you watch it partially and decide to hop onto the hackthon that organizes this (lablab.ai)
+You are excited and look forward to it encouraging your peers to participate
+The day finally comes and you have an outside coleague that you also introduced to it and he joins
+It starts at 5pm but you dont get any team to join and you wait for some odd reason.
+Right there you see a notification on the hackathon discord server which is a message saying "Looking for a team memeber, we are software engineering students from ALX"
+THis catches you sa you are in the same course as them, you saw others like that but for some reason this just got you
+THere are 2 messages that read the same and you go ahead yo dm them individually. One is Salima nd the other is Khadija
+they are in the same team and you interact and make friends
+ to keep this portion short you decide on a plan for the 7-day hackathon to make an AI bot that can help revolutionize the way peopel interact with their devices
+ THis porject is called Semblance (Semantic-Balance). you find a team of 15 and work togetther, but 6/7 days were spent planning and researching 9 hours was for coding but as expected it dint really hit because there were bugs and issues
+
+ fast forward post hackathon the team disperses whish went againt your hopes of getting a long lasting team that youcan work with nad make Singularity AI a dream startup
+ You didnt worry because you had Salima and Khadija woth you
+
+You guys become good friends as you're all enthusiastic adbout your goal and how the  course can help you
+Time passes and the C programming tries to take its toll but you push through, not understanding fully but peices begin to make sense as you progress, yet you arent satisfied and want to be able to code without help
+You fall behind in the midst of hardship and try to get back asap becuse you needed to get understanding of previous projects
+You manage to break even and you now understand and are confortable
+You move on but your peers begin to fall off, you hold on to them ensurign that they dont give up
+
+weeks pass and youbegin to stride on Twitter to grown your personal brand and your "startup" lol
+It isnt perfectr but you potray a positive image if you and your company and gain atention and followers
+You end up being followed by semi-influential people including your CEO and you wirte an article with him on "Leveraing on AI for Software engineering students"
+You even speak at on his twitter Scaces which gets you attention
+You make tons of internations developer friends and it goes well.
+
+A second hackthon comes on this time it is themed "Your AI startup" you spot this as an opportunity to get people to join your startup and wrok on Semblance
+It goes well and you get people that you work with to get the APK up but the app fails, the atmosphere is possitive working with international peple from Africa and the middle east
+ you now are moving between 2 tracks, one is your course which is important and the other is your startup which you cant let go off becuse it is vital to get in the AI fught for dominance before its too late
+you also are in a need of finance for your startup but soon relaise youdont really need any because you can launch on a very low expense
+you are struggling financially eit your family and ned to make money, that takes its effect adn you begin to loose some focus which makes you drop back in your course and you now have to refactor your mind
+the money making part get too much and you begin to worry and want to do anything to just break free out of the poverty cycle
+you know the long term effects of ticking to you path but time seems to far and you fear theres no time to succeed because it can all be cut short in a blink of an eye 
+
+you manage to break free from that thinking nad focus which at this point out of 75k students only less than 2000 are left in only 3 months
+you colleagies on the startup are no where to be found except a few(salima and khadija are busy, khadijasays shes travellign and she hsnt put anything into your idea so she deisnt feel she should be given credit and be called a team member, salima on the other hand is tryign to make ends meet through an internship to make us money but it goes south)
+Abdulrahman your main man you met through the hackathon is busy but gave you itice, Aadil and Noor are with you but not actively present till theres work to do but they support you
+ you meet a lady from Philladelphia via twitter and you become good colleauiges, shes a dev and you gell quickly, she is now triyng to help you get you comopany website in place
+ you tell her about the struggles and she is seeing the other side of you, your impact on many peple has gone a long way and she is close to you tellig you you really impacted her (althoughyou dont se things that way)
+
+ This is whre you stand and decide NO one is going to make things work but you and you ahve to get control of your life
+ you main fear is that you dont want to lkoose out on the AI race which is going fat and you need to get your foot in befire anyone else takes your idea of Sembalce from you
+ you decide to make a web app which is relatively esier than an APK
+------------------------------
+
+Now at the end of the first 3 months of this, your understanding is very fair, you can code simple C programs with little struggle but not as bad as you started.
+You have just come back from a one week break and you have begun trimester 2
+
+Second Trimester:
+Python
+Basics
+Object-Oriented Programming
+Interpreted Languages
+Test Driven Development
+Error Handling
+I/O
+Web Scraping
+C
+    Data Structures
+        Stacks/Queues
+        Doubly Linked Lists
+        Hash Tables
+        Binary Trees
+    Algorithms
+        Sorting
+        Big O
+    Dynamic Libraries
+Linux
+    Processes and Signals
+    Scripting
+    Command Line
+Databases
+    SQL
+    MySQL
+Systems Engineering
+    Open Systems Interconnection Model
+    TCP/IP
+Airbnb Project
+    HTML
+    CSS
+    JSON
+    Unit Testing
+
+you go though the first gew weeks, you have background knowlege in pytohn but for some strange reason you fall behidn and cant concentrate due to lack of motivation, confusion and uncertianty (you soon realie this is one aspect or point in life people reach and give up, you push through and get bck on yout feet, refusing to give in even when you know youve lost touch, you still speak positive)
+You are 3 weeks into this second trimester, and you've gone through the basics of Python, and you've started DSA in C, but your understanding is still not clear, You can go back to learn, but it will cost you time, as there are projects almost every day except weekends, the pressure of the course is intense, and you need to learn and manage your time strategically. You just made a 3-day timetable to cover the basics again of Structures and pointers as well as Linked lists and doubly lkinked lists in C. you also had those 3 days to prepare for a project on Tuesday 23 may 2023
+you coudnt study due to sunday being a church day so it didnt bother youbut now its 1am on monday, you sopent the day learing what you could finish on day 1 of you plan adn you still have linked list and othetr few things to study
+At this point youre peers have been kicked out of the program and youre alone with just one buddy of yours who happens to be a pharmacist and you knwo each other through church
+you tell him to be opartners for the upcoming DSA project but you know youre not rady and youre lost in what to do
+
+You still have  a positive mindset to overshadow the fact that you are struggling but you have to move forward
+What will you do
